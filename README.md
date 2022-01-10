@@ -1,0 +1,2 @@
+# newbies_kotlin
+初心者によるKotlinドキュメントのまとめ
