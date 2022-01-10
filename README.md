@@ -6,4 +6,4 @@ Kotlinを学習するためJetBrainsが公開しているKotlin言語の[ドキ�
 この文書は[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode.ja)とします。
 
 ## 目次
-[基本型](/concepts/types/basic-types.md) - [Concepts/Types/Basic Types](https://kotlinlang.org/docs/basic-types.html)
+[基本型](/concepts/types/basic_types.md)
